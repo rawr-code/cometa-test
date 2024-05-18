@@ -1,0 +1,80 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component | Bill should match snapshot 1`] = `
+<div>
+  <div
+    class="w-80 rounded bg-gray-50 px-6 pt-8 border className classes.root"
+    data-testid="Bill-root"
+  >
+    <p
+      class="text-6xl text-center my-2"
+    >
+      🍺
+    </p>
+    <div
+      class="flex flex-col justify-center items-center gap-2"
+    >
+      <h4
+        class="font-semibold"
+      >
+        Business Bar
+      </h4>
+    </div>
+    <div
+      class="flex flex-col gap-3 border-b py-6 text-xs"
+    >
+      <p
+        class="flex justify-between"
+      >
+        <span
+          class="text-gray-400"
+        >
+          Receipt No.
+        </span>
+        <span>
+          1997
+        </span>
+      </p>
+      <p
+        class="flex justify-between"
+      >
+        <span
+          class="text-gray-400"
+        >
+          Order Type
+        </span>
+        <span>
+          FullStack Developer
+        </span>
+      </p>
+      <p
+        class="flex justify-between"
+      >
+        <span
+          class="text-gray-400"
+        >
+          Host
+        </span>
+        <span>
+          Emmanuel Villegas
+        </span>
+      </p>
+      <p
+        class="flex justify-between"
+      >
+        <span
+          class="text-gray-400"
+        >
+          Customer
+        </span>
+        <span>
+          Amaury Prieto
+        </span>
+      </p>
+    </div>
+    <div
+      class="flex flex-col gap-3 pb-6 pt-2 text-xs"
+    />
+  </div>
+</div>
+`;
