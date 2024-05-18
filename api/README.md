@@ -1,5 +1,15 @@
 # Python Fastapi Hexagonal architecture
 
+**Run**
+
+```bash
+$ pip install -r requirements.txt #to install pakages
+```
+
+```bash
+$ uvicorn app.main:application --reload #Run the app
+```
+
 - Principal layers:
   - Domain
   - Application
